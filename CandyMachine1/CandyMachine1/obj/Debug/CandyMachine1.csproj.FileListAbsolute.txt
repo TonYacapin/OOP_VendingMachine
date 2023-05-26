@@ -1,0 +1,49 @@
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.pdb
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Form1.resources
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.exe
+C:\Users\ADMIN\source\repos\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.pdb
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe.config
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.exe
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.pdb
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.pdb
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csprojResolveAssemblyReference.cache
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Form1.resources
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Properties.Resources.resources
+C:\Users\37763210\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.GenerateResource.Cache
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe.config
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.exe
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.pdb
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.pdb
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csprojResolveAssemblyReference.cache
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Form1.resources
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Properties.Resources.resources
+C:\Users\37763210\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe.config
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.pdb
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Form1.resources
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.exe
+C:\Users\ADMIN\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.pdb
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.exe
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.pdb
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe.config
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.exe
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\bin\Debug\CandyMachine1.pdb
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Form1.resources
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.Properties.Resources.resources
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\CandyMachine1\CandyMachine1\obj\Debug\CandyMachine1.csproj.CoreCompileInputs.cache
